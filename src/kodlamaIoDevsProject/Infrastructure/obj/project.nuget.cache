@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QdArv0/g3TTPyNhQtLyK1tay1e23pOJRwfDiYiw972NrmOTOWr2mXpgyYpRORY9Wx6ZV+01D+mFhyPDQi33Bg==",
+  "dgSpecHash": "C41csIndYW6TJ/pVhM+d30wNX6PeSbyyup8lw9sElbuUxf7mpSMR/Fy3WXHIhEaf4sZLyFJoRAoinFeeFhsdCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\Kodlama.io.Devs2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

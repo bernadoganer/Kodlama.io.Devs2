@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASISzGTmo6V184GhDy4BPl5eNK4WixKc7g6Xti75uyPtIBaJWzFbky++q8wVdoDOE6zoB7kZCINcQcZRdcayKg==",
+  "dgSpecHash": "tNGGlMIKcXFK+y3QgdbO09V+wsQ1GP8Lwt0jnObl2XTj5Eq8gLBHBdgI3zQcwyhyOP76WlOPX988daJnlK+xjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\Kodlama.io.Devs2\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vsHZDUq4Mf/SEQSfm+8t6CwhPRa29MYlGNaQF+38vZqURTLeMxLIxiOjiLCD3hQFkROZp9Q65WO4F8zBExs+uA==",
+  "dgSpecHash": "a9Oxibz4uRcJcyS8BCDKPvZyNOaS8i/bYZLLGYp13PvIgRR5y16Gt3y1C/DK0GNGuVyS8SL8yZ92rd2f85pf8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\Kodlama.io.Devs2\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9eX2W0aDBlBJEuGlb+LKLUo7HVg/zsyFTEZ/veLPmunXxuoEvJdWQ0e1wXKCf8ijGAccT5t9MTXaDeGSBq9KEA==",
+  "dgSpecHash": "Qa7l5HvfQMecFhbrS2xZsnPLeJeXB7TJfFPa8NLAbiZZtpqDZM1q1qURX7yMBhv4dg6Qw+9Oq0uxXZDJKF8h6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\Kodlama.io.Devs2\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

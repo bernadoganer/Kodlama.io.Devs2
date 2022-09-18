@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qIIEh2YHTjWu54bw9Tx6MEcDa2FsX8IEtQrZN5RQZ6wbTUB5FsACGk80mpBKtoTtl0HaHH6QCQMYA1vXuLnEog==",
+  "dgSpecHash": "R0Mf4OjThQgN8otJxSpitqIbi1y9Pq+N3BYQdw89xhCK6JK2WNUU0RI6FBz+1pVrlXx5itrf4tUXUgvOAKO7hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "C:\\Users\\berna\\source\\repos\\Kodlama.io.Devs2\\src\\corePackages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",

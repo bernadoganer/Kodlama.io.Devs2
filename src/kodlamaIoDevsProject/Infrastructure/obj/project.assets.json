@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\berna\\Source\\Repos\\Kodlama.io.Devs2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\berna\\Source\\Repos\\Kodlama.io.Devs2\\src\\kodlamaIoDevsProject\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berna\\source\\repos\\nArchitecture2\\src\\kodlamaIoDevsProject\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\berna\\Source\\Repos\\Kodlama.io.Devs2\\src\\kodlamaIoDevsProject\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

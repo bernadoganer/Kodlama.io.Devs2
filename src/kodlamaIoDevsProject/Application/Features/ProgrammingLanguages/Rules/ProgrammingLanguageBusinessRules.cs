@@ -22,6 +22,10 @@ namespace Application.Features.ProgrammingLanguages.Rules
             IPaginate<ProgrammingLanguage> result = await _programmingLanguageRepository.GetListAsync(b => b.Name == name);
             if (result.Items.Any()) throw new BusinessException("Programming Language name exists.");
         }
-
+        public async Task ProgrammingLanguageNameCanNotBeDuplicatedWhenUpdated(int id,string name)
+        {
+            IPaginate<ProgrammingLanguage> result = await _programmingLanguageRepository.GetListAsync(b => b.Name == name && b.Id!=id);
+            if (result.Items.Any()) throw new BusinessException("Programming Language name exists.");
+        }
     }
 }

@@ -1,4 +1,6 @@
 ﻿using Application.Features.ProgrammingLanguages.Commands.CreateProgrammingLanguage;
+using Application.Features.ProgrammingLanguages.Commands.DeleteProgrammingLanguage;
+using Application.Features.ProgrammingLanguages.Commands.UpdateProgrammingLanguage;
 using Application.Features.ProgrammingLanguages.Dtos;
 using Application.Features.ProgrammingLanguages.Models;
 using Application.Features.ProgrammingLanguages.Queries.GetByIdProgrammingLanguage;
@@ -33,6 +35,20 @@ namespace WebAPI.Controllers
         {
             ProgrammingLanguageGetByIdDto programmingLanguageGetByIdDto = await Mediator.Send(getByIdIdProgrammingLanguageQuery);
             return Ok(programmingLanguageGetByIdDto);
+        }
+
+        [HttpPost("Updated")]
+        public async Task<IActionResult> Updated([FromBody] UpdateProgrammingLanguageCommand updateProgrammingLanguageCommand)
+        {
+            UpdatedProgrammingLanguageDto result = await Mediator.Send(updateProgrammingLanguageCommand);
+            return Created("", result);
+        }
+
+        [HttpPost("Deleted")]
+        public async Task<IActionResult> Deleted([FromBody] DeleteProgrammingLanguageCommand deleteProgrammingLanguageCommand)
+        {
+            DeletedProgrammingLanguageDto result = await Mediator.Send(deleteProgrammingLanguageCommand);
+            return Created("", result);
         }
     }
 }
